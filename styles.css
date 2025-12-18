@@ -1,0 +1,77 @@
+
+.fs_style_31, stylename_2022__-__Button__-__Default {}
+
+.fs_style_34, stylename_2022__-__Button__-__Download__File {}
+
+.fs_style_37, stylename_2022__-__Button__-__Expand {}
+
+.fs_style_35, stylename_2022__-__Button__-__External__Link {}
+
+.fs_style_36, stylename_2022__-__Button__-__Large {}
+
+.fs_style_40, stylename_2022__-__Button__-__Lock {}
+
+.fs_style_39, stylename_2022__-__Button__-__On__Dark {}
+
+.fs_style_38, stylename_2022__-__Button__-__On__Dark__-__Yellow {}
+
+.fs_style_32, stylename_2022__-__Button__-__Purple {}
+
+.fs_style_41, stylename_2022__-__Button__-__Solid__Purple {}
+
+.fs_style_42, stylename_2022__-__Button__-__Solid__yellow {}
+
+.fs_style_33, stylename_2022__-__Button__-__Yellow {}
+
+.fs_style_28, stylename_2022__-__Callout {}
+
+.fs_style_29, stylename_2022__-__Lead__in {}
+
+.fs_style_30, stylename_2022__-__Table__Styled {}
+
+.fs_style_11, stylename_content__image__float__left {float: left;
+padding: 15px 30px 15px 0 !important;
+margin: 0 !important;}
+
+.fs_style_12, stylename_content__image__float__right {float: right;
+padding: 15px 0px 15px 30px !important;
+margin: 0 !important;}
+
+.fs_style_25, stylename_content_module {display:block;}
+
+.fs_style_15, stylename_custom_blockquote {display:block;}
+
+.fs_style_16, stylename_custom_callout {display:block;}
+
+.fs_style_17, stylename_custom_citation {display:block;}
+
+.fs_style_14, stylename_custom_leadin {display:block;}
+
+.fs_style_24, stylename_custom_list {display: block;}
+
+.fs_style_18, stylename_custom_table {display:table;}
+
+.fs_style_6, stylename_Falcon__Flyer__opening__text {font-family: "Times New Roman", Times;
+font-size: 15px;
+color: #5B408B;
+}
+
+.fs_style_5, stylename_Falcon__Flyer__Purple__Header {font-size: 14pt;
+font-family: "Times New Roman", Times;
+color: #7451AD;
+font-weight: bold;}
+
+.fs_style_26, stylename_Image__Caption {/** IN CSS **/}
+
+.fs_style_1, stylename_large__text {font-size:18px;
+font-weight:bold;
+color:#f00;}
+
+.fs_style_4, stylename_nav__style {font-size:11px;
+display:block;
+text-align:left;
+text-decoration:none;
+padding:6px 6px;
+color:#000000;
+background-color:#ffc82e;
+}
