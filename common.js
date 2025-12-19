@@ -2,8 +2,8 @@
 fetch('header.html')
   .then(response => response.text())
   .then(data => {
-    var data2=document.getElementById('fsPageWrapper').innerHTML;
-    document.getElementById('fsPageWrapper').innerHTML = data + data2;
+    // var data2=document.getElementById('header-section').innerHTML;
+    document.getElementById('header-section').innerHTML = data;
   });
 
 fetch('footer.html')
