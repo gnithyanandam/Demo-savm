@@ -3705,16 +3705,14 @@ html:not(.js) .nav-main .fsNavLevel1 > li:hover > .fsNavPageInfo {
 }
 @media (min-width: 1000px) {
   .site-info-container a {
-    height: 50px;
     padding-left: 100px !important;
-    font-size: 30px;
-    line-height: 41px;
+    height: 98px;
+    top:20px;
   }
   .site-info-container-logo a {
-    height: 50px;
     padding-left: 100px !important;
-    font-size: 30px;
-    line-height: 41px;
+    height: 75px;
+    top:20px;
   }
 }
 @media (min-width: 1000px) {
@@ -3738,14 +3736,14 @@ html:not(.js) .nav-main .fsNavLevel1 > li:hover > .fsNavPageInfo {
   background: url(images/logo.png);
   position: absolute;
   left: 0;
-  top: 50%;
-  width: 40px;
-  height: 40px;
+  /* top: 50%; */
+  width: 90px;
+  height: 90px;
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: 50%;
-  transform: translateY(-50%);
-  left: 10px;
+  /* background-position: 50%; */
+  /* transform: translateY(-50%); */
+  /* left: 10px; */
 }
 @media (min-width: 1000px) {
     .home .video-hero>.fsElementContent video {
@@ -3764,7 +3762,7 @@ html:not(.js) .nav-main .fsNavLevel1 > li:hover > .fsNavPageInfo {
   .home .site-info-container-logo a:before {
     width: 90px;
     height: 90px;
-    top: 0;
+    /* top: 0; */
     transform: none;
     left: 0;
   }
