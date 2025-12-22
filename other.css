@@ -1909,7 +1909,8 @@
 			speak: none;
 			color: #fff;
 			margin-left: 20px;
-			font-size: 12px
+			font-size: 12px;
+			display: none !important;
 		}
 
 		.nav-tier ul.fsNavLevel1>li>a:focus,
