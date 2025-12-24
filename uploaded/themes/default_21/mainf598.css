@@ -1396,7 +1396,7 @@ cite:before {
   left: 49px;
 }
 hr {
-  background: url(images/k-logo.png) no-repeat top;
+  /* background: url(images/k-logo.png) no-repeat top; */
   background-size: contain;
   display: block;
   height: 43px;
@@ -1415,7 +1415,7 @@ hr:before {
 }
 hr:before {
   left: 0;
-  right: 50%;
+  right: 0%;
   margin-right: 21px;
 }
 hr:after {
