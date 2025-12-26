@@ -1837,9 +1837,10 @@
 		}
 
 		@media (max-width:799px) {
-			.nav-tier {
+			/* .nav-tier {
 				display: none
-			}
+			} */
+
 		}
 
 		.nav-tier-empty .nav-tier {
