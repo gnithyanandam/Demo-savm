@@ -6,10 +6,10 @@
 //     document.getElementById('header-section').innerHTML = data;
 //   });
 
-fetch('footer.html')
-  .then(response => response.text())
-  .then(data => {
-    document.getElementById('fsFooter').innerHTML = data;
-  });
+// fetch('footer.html')
+//   .then(response => response.text())
+//   .then(data => {
+//     document.getElementById('fsFooter').innerHTML = data;
+//   });
 
   
